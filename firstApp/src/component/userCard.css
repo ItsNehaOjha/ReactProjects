@@ -1,0 +1,32 @@
+.user-container{
+    background-color: #92dc65a6;
+    padding: 35px;
+    text-align: center;
+    height: 26rem;
+    width: 22rem;
+    margin: 2rem;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 12px;
+    
+}
+#user-title{
+    font-size: 2rem;
+    margin-bottom: 22px;
+}
+#user-desc{
+    font-size: 1.2rem;
+    margin-top: 22px;
+    margin-bottom: -17px;
+}
+#user-img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 2.5cqb solid #6b5555;
+    
+}

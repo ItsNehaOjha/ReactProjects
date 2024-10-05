@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  flex-direction: column;
+ margin-top: 3rem;
+ justify-content: center;
+ align-items: center;
+ flex-wrap: wrap;
+}
+.heading1{
+  font-size: 3rem;
+  color: rgb(238, 151, 219);
+}
