@@ -9,7 +9,7 @@ function App() {
     <div className='container'>
     <h1 className='heading1'>Know Me</h1>
       <UserCard  name="Neha Ojha" img={myPic}   desc="Full Stack Web Developer" style={{"border-radius":"10px"}} />
-      <UserCard name="Naina" img={babuPic} desc="My Babu's fav name "  style={{"border-radius":"10px"}}/>
+      <UserCard name="Naina" img={babuPic} desc="My fav name "  style={{"border-radius":"10px"}}/>
       <UserCard name="Just ME" img={strPic} desc="A simple struggling girl"  style={{"border-radius":"10px"}}/>
     </div>
   )
